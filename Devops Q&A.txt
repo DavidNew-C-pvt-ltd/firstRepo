@@ -1,0 +1,10 @@
+1. how to check where the folder is created?
+2. some of the find commands are not working?
+3.why empty files are not displayed?
+when the instance is terminated it says that it will be delete all the files from your local desk. So the purpose of using the online server like ec2?
+4. whats the use of lart command?
+5. drwxr_xr_x & lrwxr_xr_x what is d and l stands for. In same line before timestamp there is 0, 29, etc what is it?(screenshot
+what0etc)
+6 rm -rf didnt work(screenshot rf)
+7. In tree structure how to identify the files, and directories etc ot the color codes?
+8. If we are creating the files and directories in ec2 user is it storing the files/folders in our local system?
